@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --setaver-bg: #F2F1EF;
+  --setaver-surface: #E8E7E4;
+  --setaver-border: #D4D3CF;
+  --setaver-stone: #C4BFB8;
+  --setaver-text: #1A1A1A;
+  --setaver-muted: #6B6560;
+  --setaver-warm: #F7F5F2;
+  --setaver-accent: #1A1A1A;
+  --setaver-badge: #C9A96E;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #F2F1EF;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #F2F1EF;
+  color: #1A1A1A;
+}
+
+::selection {
+  background-color: #1A1A1A;
+  color: #F7F5F2;
+}
+
+/* Remove default button styles */
+button {
+  cursor: pointer;
+}

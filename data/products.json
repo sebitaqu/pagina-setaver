@@ -1,0 +1,200 @@
+[
+  {
+    "id": "setaver-001",
+    "name": "Chaqueta Harrington Kappa",
+    "brand": "Kappa",
+    "category": "chaquetas",
+    "gender": "hombre",
+    "type": "segunda",
+    "style": ["urbano", "casual"],
+    "price": 18990,
+    "originalPrice": null,
+    "size": "M",
+    "available": true,
+    "isOffer": false,
+    "featured": true,
+    "condition": "Excelente estado",
+    "images": {
+      "main": "/images/products/setaver-001-main.jpg",
+      "label": "/images/products/setaver-001-label.jpg"
+    },
+    "description": "Pieza icónica en perfecto estado. Corte clásico, talla M holgada. Ideal para looks urbanos sin esfuerzo.",
+    "createdAt": "2025-01-15"
+  },
+  {
+    "id": "setaver-002",
+    "name": "Jeans 501 Original",
+    "brand": "Levi's",
+    "category": "pantalones",
+    "gender": "mujer",
+    "type": "segunda",
+    "style": ["casual", "vintage"],
+    "price": 22990,
+    "originalPrice": null,
+    "size": "28",
+    "available": true,
+    "isOffer": false,
+    "featured": true,
+    "condition": "Muy buen estado",
+    "images": {
+      "main": "/images/products/setaver-002-main.jpg",
+      "label": "/images/products/setaver-002-label.jpg"
+    },
+    "description": "El 501 original de Levi's. Sin desgastes visibles, cierre en perfectas condiciones. Fit recto clásico.",
+    "createdAt": "2025-01-20"
+  },
+  {
+    "id": "setaver-003",
+    "name": "Parka Nuptse 700",
+    "brand": "The North Face",
+    "category": "chaquetas",
+    "gender": "hombre",
+    "type": "segunda",
+    "style": ["outdoor", "urbano"],
+    "price": 89990,
+    "originalPrice": null,
+    "size": "L",
+    "available": false,
+    "isOffer": false,
+    "featured": false,
+    "condition": "Excelente estado",
+    "images": {
+      "main": "/images/products/setaver-003-main.jpg",
+      "label": "/images/products/setaver-003-label.jpg"
+    },
+    "description": "La Nuptse 700 original. Pieza histórica del catálogo Setaver.",
+    "createdAt": "2025-01-10"
+  },
+  {
+    "id": "setaver-004",
+    "name": "Polera Vintage Swoosh",
+    "brand": "Nike",
+    "category": "poleras",
+    "gender": "hombre",
+    "type": "segunda",
+    "style": ["urbano", "sporty"],
+    "price": 9990,
+    "originalPrice": null,
+    "size": "M",
+    "available": true,
+    "isOffer": false,
+    "featured": false,
+    "condition": "Buen estado",
+    "images": {
+      "main": "/images/products/setaver-004-main.jpg",
+      "label": "/images/products/setaver-004-label.jpg"
+    },
+    "description": "Swoosh vintage en excelente representación de los 90. Sin manchas ni roturas. Lavado y listo.",
+    "createdAt": "2025-02-01"
+  },
+  {
+    "id": "setaver-005",
+    "name": "Blazer Oversized",
+    "brand": "Zara",
+    "category": "chaquetas",
+    "gender": "mujer",
+    "type": "segunda",
+    "style": ["formal", "minimalista"],
+    "price": 24990,
+    "originalPrice": 35990,
+    "size": "S",
+    "available": true,
+    "isOffer": true,
+    "featured": true,
+    "condition": "Como nuevo",
+    "images": {
+      "main": "/images/products/setaver-005-main.jpg",
+      "label": "/images/products/setaver-005-label.jpg"
+    },
+    "description": "Blazer oversized de corte masculino. Usado una sola vez, sin marcas de uso visibles. Forro en perfecto estado.",
+    "createdAt": "2025-02-05"
+  },
+  {
+    "id": "setaver-006",
+    "name": "Sweater Logo Clásico",
+    "brand": "Tommy Hilfiger",
+    "category": "sweaters",
+    "gender": "mujer",
+    "type": "segunda",
+    "style": ["preppy", "casual"],
+    "price": 19990,
+    "originalPrice": null,
+    "size": "M",
+    "available": true,
+    "isOffer": false,
+    "featured": true,
+    "condition": "Muy buen estado",
+    "images": {
+      "main": "/images/products/setaver-006-main.jpg",
+      "label": "/images/products/setaver-006-label.jpg"
+    },
+    "description": "Clásico sweater Tommy con logo bordado. Suavidad intacta, sin pilling. Color marino original.",
+    "createdAt": "2025-02-10"
+  },
+  {
+    "id": "setaver-007",
+    "name": "Stan Smith Vintage",
+    "brand": "Adidas",
+    "category": "zapatillas",
+    "gender": "hombre",
+    "type": "segunda",
+    "style": ["urbano", "minimalista"],
+    "price": 29990,
+    "originalPrice": null,
+    "size": "42",
+    "available": false,
+    "isOffer": false,
+    "featured": false,
+    "condition": "Muy buen estado",
+    "images": {
+      "main": "/images/products/setaver-007-main.jpg",
+      "label": "/images/products/setaver-007-label.jpg"
+    },
+    "description": "Stan Smith vintage de cuero genuino. Suela sin desgaste pronunciado. Parte de la historia de Setaver.",
+    "createdAt": "2025-01-25"
+  },
+  {
+    "id": "setaver-008",
+    "name": "Vestido Midi Lino",
+    "brand": "Mango",
+    "category": "vestidos",
+    "gender": "mujer",
+    "type": "nueva",
+    "style": ["minimalista", "verano"],
+    "price": 15990,
+    "originalPrice": null,
+    "size": "S",
+    "available": true,
+    "isOffer": false,
+    "featured": true,
+    "condition": "Nueva con etiqueta",
+    "images": {
+      "main": "/images/products/setaver-008-main.jpg",
+      "label": "/images/products/setaver-008-label.jpg"
+    },
+    "description": "Vestido midi de lino natural. Nueva con etiqueta original, nunca usado. Caída perfecta.",
+    "createdAt": "2025-02-15"
+  },
+  {
+    "id": "setaver-009",
+    "name": "Cardigan Merino Oversize",
+    "brand": "COS",
+    "category": "sweaters",
+    "gender": "mujer",
+    "type": "segunda",
+    "style": ["minimalista", "casual"],
+    "price": 27990,
+    "originalPrice": null,
+    "size": "S/M",
+    "available": true,
+    "isOffer": false,
+    "featured": true,
+    "condition": "Como nuevo",
+    "images": {
+      "main": "/images/products/Gemini_Generated_Image_yhcl1iyhcl1iyhcl.png",
+      "label": "/images/products/Gemini_Generated_Image_yhcl1iyhcl1iyhcl.png"
+    },
+    "description": "Cardigan de lana merino en tono crema natural. Corte oversize de COS, sin pilling, suavidad intacta. Una pieza atemporal.",
+    "createdAt": "2026-06-09"
+  }
+]
