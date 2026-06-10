@@ -196,5 +196,27 @@
     },
     "description": "Cardigan de lana merino en tono crema natural. Corte oversize de COS, sin pilling, suavidad intacta. Una pieza atemporal.",
     "createdAt": "2026-06-09"
+  },
+  {
+    "id": "setaver-010",
+    "name": "Polar Columbia",
+    "brand": "Columbia",
+    "category": "sweaters",
+    "gender": "hombre",
+    "type": "segunda",
+    "style": ["urbano", "casual", "outdoor"],
+    "price": 19990,
+    "originalPrice": null,
+    "size": "L",
+    "available": true,
+    "isOffer": false,
+    "featured": false,
+    "condition": "Excelente estado",
+    "images": {
+      "main": "/images/products/setaver-010-main.png",
+      "label": "/images/products/setaver-010-main.png"
+    },
+    "description": "Polar Columbia en excelente estado. Talla L.",
+    "createdAt": "2026-06-10"
   }
 ]
